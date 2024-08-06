@@ -3,5 +3,5 @@
 Install using
 
 ```shell
-$ go install github.com/tomasruud/urlr
+go install github.com/tomasruud/urlr@latest
 ```
